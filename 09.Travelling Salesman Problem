@@ -1,5 +1,3 @@
-#9 Travelling Salesman Problem
-
 import itertools
 
 def distance(city1, city2):
