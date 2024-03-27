@@ -1,5 +1,3 @@
-#7 Best First Search
-
 def create_graph():
     graph = {}
     vertices = int(input("Enter the number of vertices: "))
